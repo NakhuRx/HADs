@@ -207,12 +207,7 @@
     "pregnancy_note": "อาจลดเลือดไปเลี้ยงมดลูก",
     "description": "ใช้ลดความดันโลหิตในภาวะวิกฤตความดันโลหิตสูง ต้องติดตามความดันอย่างใกล้ชิด",
     "indications": "Hypertensive emergency",
-    "mixing": "Mixing: Nicardipine 0.1mg/ml หรือ 10 mg/100 ml (1:10)  ใช้สารน ้า 100 ml D5W หรือ D5NSS หรือ D5-1/2S หรือ 
-              NSS หรือ NSS/2 ดูดออก 10 ml  ดูดยา Nicardipine 1 amp (10 mg) เติมลงในถุง/ขวดสาร
-              น้ำที่เตรียมไว้ พลิกไปมาให้ยาเข้ากันดี 
-               Nicardipine 0.2 mg/ml หรือ 20 mg/100 ml (1:5)  ใช้สารน ้า 100 ml D5W หรือ D5NSS หรือ D5-1/2S หรือ 
-               NSS หรือ NSS/2 ดูดออก 20 ml ดูดยา Nicardipine 2 amp (20 mg) เติมลงในถุง/ขวดสาร
-               น้ำที่เตรียมไว้ พลิกไปมาให้ยาเข้ากันดี  | Rate: เริ่ม 5 mg/hr ปรับเพิ่มได้ถึง 15 mg/hr"
+        "mixing": "Nicardipine 0.1 mg/mL (10 mg/100 mL, 1:10): ใช้สารน้ำ 100 mL (D5W, D5NSS, D5-1/2S, NSS หรือ NSS/2) ดูดสารน้ำออก 10 mL แล้วดูดยา Nicardipine 1 amp (10 mg) เติมลงในถุง/ขวดสารน้ำที่เตรียมไว้ พลิกไปมาให้ยาเข้ากันดี | Nicardipine 0.2 mg/mL (20 mg/100 mL, 1:5): ใช้สารน้ำ 100 mL (D5W, D5NSS, D5-1/2S, NSS หรือ NSS/2) ดูดสารน้ำออก 20 mL แล้วดูดยา Nicardipine 2 amp (20 mg) เติมลงในถุง/ขวดสารน้ำที่เตรียมไว้ พลิกไปมาให้ยาเข้ากันดี | Rate: เริ่ม 5 mg/hr ปรับเพิ่มได้ถึง 15 mg/hr",
     "compatible_fluids": "NSS, D5W",
     "contraindications": "Advanced aortic stenosis",
     "monitoring": "BP (ทุก 5-15 นาที), HR, เปลี่ยนตำแหน่งเข็มทุก 12 ชม.",
